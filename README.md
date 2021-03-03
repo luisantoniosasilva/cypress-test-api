@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido utilizando a API [ReqRes](https://reqres.in) para estudo de teste de API utilizando Cypress.
 
-### Métodos HTTP Rest utilizados
+### Métodos HTTP utilizados
 - GET (listUser.spec.js)
 - PUT (updateUser.spec.js)
 - POST (createUser.spec.js)
